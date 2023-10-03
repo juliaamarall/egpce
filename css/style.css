@@ -155,7 +155,8 @@ ul li.menu a {
 
 
 ul li.menu a .txt {
-    margin-left: 2.2rem;
+    margin-left: 2.3rem;
+
 }
 
 ul li.menu a {
@@ -163,8 +164,7 @@ ul li.menu a {
 }
 
 ul li.menu a .icon>i {
-    font-size: 25px;
-    margin-left: -10px;
+    font-size: 25px;   
 }
 
 ul li.menu a:hover {
@@ -172,7 +172,6 @@ ul li.menu a:hover {
     background-color: #1a9c60;
     
 }
-
 
 [data-theme="dark"] ul li.menu a:hover {
     background-color: #3be3e2;
@@ -185,6 +184,7 @@ ul li.menu a:hover {
 .menulateral:hover~.all-conteudo{
     margin-left:100px ;
 }
+
 
 .menulateral:hover {
     width: 280px;

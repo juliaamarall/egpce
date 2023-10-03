@@ -379,17 +379,6 @@ hr {
     font-size: -100px;
 }
 
-
-
-
-/* estilo do iframe */
-/* iframe {
-    display: flex;
-    justify-content: center;
-    margin: auto;
-
-} */
-
 .dropdown-menu {
     background-color: var(--color-green);
     color: white;
@@ -402,13 +391,9 @@ hr {
 
 }
 
-
 [data-theme="dark"] .dropdown-menu {
     background-color: var(--color-ciano);
 }
-
-
-
 
 /* estilo do accordion */
 

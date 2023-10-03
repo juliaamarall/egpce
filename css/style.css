@@ -195,7 +195,7 @@ ul li.menu a:hover {
 /* ESTILO DO MENU RESPONSIVO */
 
 .offcanvas{
-    max-width: 65%;
+    max-width: 70%;
     padding-left: 0 !important;
         margin-left: 0 !important;
         background-color: var(--CormenuLateral);
@@ -204,9 +204,9 @@ ul li.menu a:hover {
 /* LOGO EGP RESPONSIVO */
 
 .offcanvas-header h5 > img{
-
-    position: relative;
-    left: 40%;
+  position: relative;
+  left: 2em;
+    
 }
 
 /* ESTILO BOTÃO FECHAR */
@@ -220,7 +220,7 @@ ul li.menu a:hover {
 
 /* MENU LATERAL RESPONSIVO CONTEÚDO */
 .offcanvas-body > .menulateral-responsivo > ul{
-        width: 112% !important;
+        width: 111% !important;
         padding-left: 1px !important;
         margin-left: 0 !important;
         position: relative;

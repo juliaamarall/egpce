@@ -149,7 +149,7 @@ ul li.menu a {
     padding-left: 0px !important;
     width: 105% !important;
     position: relative;
-    right: 5.2%;
+    right: 5%;
     
  }
 
@@ -254,7 +254,8 @@ ul li.menu a:hover {
     margin-bottom: 0.7rem;
     cursor: pointer;
     position: relative;
-    left: 35%;
+    /* mudei isso aqui bichana coloquei (em)kkkk */
+    left: 2em;
   }
   [data-theme="dark"] .dropdown-container a{
     color: white;
@@ -263,7 +264,7 @@ ul li.menu a:hover {
     margin-left: 10px;
   }
   .circulo{
-    margin-right: 45px;
+    margin-right: 2em;
     margin-left: -15px;
   }
 

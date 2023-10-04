@@ -110,7 +110,7 @@ body {
 
 /* aqui eu defini algumas propriedades que "ajudam" o header a ficar animado --jayron-- */
 
-#navbar {
+#navmenu {
     position: fixed;
     top: 0;
     width: 100%;
@@ -846,7 +846,7 @@ form {
     background-color: var(--color-dark-900);
 }
 
-[data-theme="dark"] #navbar {
+[data-theme="dark"] #navmenu {
     background-color: var(--color-dark-100);
 }
 

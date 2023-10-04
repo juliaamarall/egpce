@@ -85,7 +85,7 @@ window.onload = calcScrollValue
 
 // teste header
 var lastScrollTop = 0;
-navbar = document.getElementById("navbar");
+navbar = document.getElementById("navmenu");
 window.addEventListener("scroll", function () {
     var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
 
